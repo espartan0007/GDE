@@ -1,12 +1,7 @@
-# GDE Guided DifferentialEvolution
+# Guided Differential Evolution (GDE)
 GDE in python .
 
 
-Here is your content formatted in clean, professional Markdown suitable for a GitHub repository or project README.
-
----
-
-# Guided Differential Evolution (GDE)
 
 > **A bimodal Differential Evolution framework with historical population guidance for global numerical optimization.**
 
