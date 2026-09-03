@@ -1,4 +1,4 @@
-# GDE_Guided_Differential_Evolution
+# GDE Guided DifferentialEvolution
 GDE in python .
 
 
